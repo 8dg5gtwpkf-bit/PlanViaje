@@ -1,0 +1,7 @@
+{
+  "name": "PlanViaje2",
+  "description": "A professional travel planning platform offering bespoke itineraries and comprehensive destination guides.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
